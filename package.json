@@ -1,0 +1,13 @@
+{
+  "name": "console-log-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "atob": "^2.1.2"
+  },
+  "scripts": {
+    "test": "node test"
+  }
+}
