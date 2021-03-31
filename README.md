@@ -5,8 +5,11 @@
 ## How to run
 
 1. copy the contents of [`main.js`](https://github.com/smartnews/console-log-image/blob/main/main.js?raw=true)
-2. open DevTools in your browser
-3. paste the script and press enter
+2. open https://jsfiddle.net/ or something similar service in your browser
+3. open DevTools on the page
+4. paste the script and press enter
+
+**CAUTION:** Pasting anonymous scripts into the dev console directly is usually very dangerous!
 
 ## Code Golf Challenge!
 
